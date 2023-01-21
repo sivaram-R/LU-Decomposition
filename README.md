@@ -43,7 +43,8 @@ print(solution)
 ```
 
 ## Output:
-(i)
+(i)![lu decomposition](https://user-images.githubusercontent.com/121165794/213844454-a987a388-0793-442f-9efe-3c8ea1a2dee7.png)
+(ii)![land u](https://user-images.githubusercontent.com/121165794/213844508-3ff5100f-3a58-4811-8cb0-386fac9fd395.png)
 
 
 
