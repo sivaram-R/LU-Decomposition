@@ -11,9 +11,8 @@ To write a program to find the LU Decomposition of a matrix.
 1. import numpy and scipy from python library
 2. Get input from user,using string concept
 3. Calculate lu product and decomposition of the given matrices
-4.Print the value of L
-5.Print the value of U
-
+4. Print the value of L
+5. Print the value of U
 ## Program:
 (i) To find the L and U matrix
 ```
